@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1557417478 source:f:\operating system lab\shortest_time_first_scheduling_without arrival time\main.cpp
+	<iostream>
+	<cstring>
+
+1557417478 source:f:\operating system lab\shortest_job_first_scheduling_without arrival time\main.cpp
+	<iostream>
+	<cstring>
+
